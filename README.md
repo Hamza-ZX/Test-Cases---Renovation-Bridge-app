@@ -25,12 +25,12 @@ Renovation Bridge aims to simplify the renovation and real estate process, enabl
 
 ## Test Cases of the App
 
-This section includes the test cases used to validate the functionality of the Renovation Bridge mobile app. These test cases cover various scenarios to ensure the app’s features work as expected on both Android and iOS devices.
+This Repo includes the test cases used to validate the functionality of the Renovation Bridge mobile app. These test cases cover various scenarios to ensure the app’s features work as expected on both Android and iOS devices.
 
 ---
 
 ## Bug Reporting
 
-This file tracks any bugs or issues identified during the testing phase and by end-users. Please refer to this document to view any known bugs and their resolutions, helping to maintain the app’s stability and improve the user experience in future updates.
+Bug Reporting files in this repo includes the file containing blueprint structure to tracks any bugs or issues identified during the testing phase and by end-users. You can refer to this document to view any known bugs and their resolutions, helping to maintain the app’s stability and improve the user experience in future updates.
 
 ---
